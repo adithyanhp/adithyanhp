@@ -1,6 +1,6 @@
 # Hi there, I'm Adithyan HP 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source technologies and innovative projects.
+Welcome to my GitHub profile! I'm a passionate tech enthusiast with a keen interest in open-source technologies and innovative projects.
 
 ## 🔭 What I'm Currently Working On
 - **Open Source Contributions**: Actively contributing to various open-source projects.

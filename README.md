@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast with a keen inter
 - Linux
 
 ## 📫 How to Reach Me
-- **Email**: adithyanhp@gmail.com
+- **Email**: adithyanhpm@gmail.com
 - **LinkedIn**: [Adithyan HP](https://www.linkedin.com/in/adithyanhp)
 - **Twitter**: [@adithyan_h_p](https://twitter.com/adithyan_h_p)
 

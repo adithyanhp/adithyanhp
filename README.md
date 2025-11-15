@@ -33,3 +33,5 @@ I love watching Linux based videos & read Blogs in my free time!
 
 ## 🤝 Let's Connect
 Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
+
+https://raw.githubusercontent.com/adithyanhp/adithyanhp/output/github-snake-dark.svg

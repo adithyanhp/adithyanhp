@@ -15,9 +15,18 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast with a keen inter
 - Linux
 
 ## 📫 How to Reach Me
-- **Email**: adithyanhpm@gmail.com
-- **LinkedIn**: [Adithyan HP](https://www.linkedin.com/in/adithyanhp)
-- **Twitter**: [@adithyan_h_p](https://twitter.com/adithyan_h_p)
+
+<p align="left">
+  <a href="mailto:adithyanhpm@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adithyanhp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://twitter.com/adithyan_h_p" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+</p>
 
 ## ⚡ Fun Fact
 I love watching Linux based videos & read Blogs in my free time!

@@ -3,12 +3,13 @@
 Welcome to my GitHub profile! I'm a passionate tech enthusiast with a keen interest in open-source technologies and innovative projects.
 
 ## 🔭 What I'm Currently Working On
-- **Open Source Contributions**: Actively contributing to various open-source projects.
+<!-- **Open Source Contributions**: Actively contributing to various open-source projects.-->
 - **Personal Projects**: Building projects that solve real-world problems.
 
 ## 🌱 What I'm Learning
 - **Linux Administration**
 - **Bash scripting**
+- **Web Development**
 
 ## 💬 Ask Me About
 - Linux

@@ -26,7 +26,9 @@ I love watching Linux based videos & read Blogs in my free time!
 ![Adithyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyanhp&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-readme-trophies.vercel.app/?username=adithyanhp&theme=radical)
+<p align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=adithyanhp&theme=radical" />
+</p>
 
 ## 💼 Technical Skills
 - **Languages**: JavaScript, Bash, Python, Java, C, C++

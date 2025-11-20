@@ -27,11 +27,11 @@ I love watching Linux based videos & read Blogs in my free time!
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithyanhp&theme=radical&show_icons=true&rank_icon=github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyanhp&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyanhp&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyanhp&layout=compact&theme=radical" />
 </p>
 
 ## 💼 Technical Skills

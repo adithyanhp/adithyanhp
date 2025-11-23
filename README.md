@@ -39,7 +39,7 @@ I love watching Linux based videos & read Blogs in my free time!
 
 ## 🏆 Achievement Cards
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyanhp&theme=radical" />
+  <img src="https://github-profile-achievements.vercel.app/api?username=adithyanhp&theme=radical&animate=true" />
 </p>
 
 <p align="center">

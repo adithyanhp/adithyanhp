@@ -39,7 +39,7 @@ I love watching Linux based videos & read Blogs in my free time!
 
 ## 🏆 Achievement Cards
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adithyanhp/adithyanhp/main/achievements.svg" alt="Neon GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adithyanhp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">

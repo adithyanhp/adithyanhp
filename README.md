@@ -39,7 +39,9 @@ I love watching Linux based videos & read Blogs in my free time!
 
 ## 🏆 Achievement Cards
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=adithyanhp" />
+  <img src="https://github-profile-achievements.vercel.app/api/achievement/pull-shark?username=adithyanhp" />
+  <img src="https://github-profile-achievements.vercel.app/api/achievement/starstruck?username=adithyanhp" />
+  <img src="https://github-profile-achievements.vercel.app/api/achievement/galaxy-brain?username=adithyanhp" />
 </p>
 
 <p align="center">

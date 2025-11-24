@@ -33,9 +33,15 @@ I love watching Linux based videos & read Blogs in my free time!
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adithyanhp&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=15" height="180"/>
-  
-  <img src="https://streak-stats.demolab.com?user=adithyanhp&theme=tokyonight&hide_border=false&border_radius=15" height="180"/>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adithyanhp&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=15"
+    height="180"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=adithyanhp&theme=tokyonight&hide_border=false&border_radius=15"
+    height="180"
+  />
 </p>
 
 ## 🏆 Achievement Cards

@@ -33,7 +33,15 @@ I love watching Linux based videos & read Blogs in my free time!
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adithyanhp/glass-cards/main/github-stats.svg" height="180"/>
+  <img 
+    src="https://stats.dooboo.io/api/github-stats?login=adithyanhp&theme=tokyonight"
+    height="180"
+  />
+  
+  <img 
+    src="https://streak-stats.demolab.com?user=adithyanhp&theme=tokyonight&hide_border=false&border_radius=15"
+    height="180"
+  />
 </p>
 
 ## 🏆 Achievement Cards

@@ -46,7 +46,7 @@ I love watching Linux based videos & read Blogs in my free time!
 
 ## 🏆 Achievement Cards
 <p align="center">
-  <img src="https://github-profile-trophy-r2qp.vercel.app/?username=adithyanhp&theme=discord&no-frame=true&margin-w=15&row=1" />
+  <img src="https://github-readme-stats-1f8wj4jdt.vercel.app/api/top-langs/?username=adithyanhp&layout=compact&theme=radical" />
 </p>
 
 <p align="center">

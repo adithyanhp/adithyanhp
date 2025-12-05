@@ -50,7 +50,7 @@ I love watching Linux based videos & read Blogs in my free time!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adithyanhp&layout=compact&theme=radical&cachebust=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyanhp&layout=compact&theme=radical" />
 </p>
 
 ## 💼 Technical Skills

@@ -50,7 +50,7 @@ I love watching Linux based videos & read Blogs in my free time!
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/adithyanhp?style=for-the-badge" />
+  <img src="https://github-readme-metrics.vercel.app/insights/adithyanhp?theme=radical" />
 </p>
 
 ## 💼 Technical Skills

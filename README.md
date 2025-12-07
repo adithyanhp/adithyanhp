@@ -50,7 +50,11 @@ I love watching Linux based videos & read Blogs in my free time!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-metrics.vercel.app/insights/adithyanhp?theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adithyanhp&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adithyanhp&theme=radical" />
 </p>
 
 ## 💼 Technical Skills

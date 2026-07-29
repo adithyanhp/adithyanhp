@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast with a keen inter
 ## 📫 How to Reach Me
 
 <p align="left">
-  <a href="mailto:adithyanhpm@gmail.com">
+  <a href="mailto:adithyanhp@protonmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/adithyanhp" target="_blank">

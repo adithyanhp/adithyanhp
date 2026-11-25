@@ -103,6 +103,8 @@
 </picture>
 </p>
 
+<img src="https://raw.githubusercontent.com/adithyanhp/adithyanhp/output/github-snake.svg" alt="Snake animation" />
+
 <hr />
 
 <table width="100%">

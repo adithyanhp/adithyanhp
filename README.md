@@ -114,4 +114,4 @@
 </tr>
 </table>
 
-<p align="center"><sub>Adithyan HP · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Adithyan HP</sub></p>
